@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Nasika
+Build-Jdk: 15.0.2
+Implementation-Title: Order-Microservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: order
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/OrderServiceS
+Created-By: Maven Integration for Eclipse
+
