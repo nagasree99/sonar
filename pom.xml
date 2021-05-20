@@ -45,6 +45,9 @@
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
 		</dependency>
+		<sonar.projectKey>nagasree99</sonar.projectKey>
+         <sonar.organization>nagasree99/sonar.organization>
+          <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-config</artifactId>
